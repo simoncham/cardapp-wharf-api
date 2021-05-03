@@ -1,6 +1,6 @@
 # CardApp - Wharf API Test Project
 
-This is a project to develop test automation of CardApp API for Wharf
+This is a project to develop a workspace for test automation of CardApp API for Wharf
 
 - API Consumer Client: `Wharf`
 - API Producer Company: `CardApp`
@@ -24,7 +24,7 @@ Directory Structure:
 
 |path|description|
 |--|--|
-|`<project>\collections\`| the folder contains all `connection`s
+|`<project>\collections\`| the folder contains all `collection`s
 |`<project>\environments\`| the folder contains all `environment`s
 `<project>\data\`| the folder contains all test data set
 |`<project>\lib\`| util scripts for preparation of test data.
